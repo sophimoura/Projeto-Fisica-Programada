@@ -8,17 +8,27 @@
 </h3><br>
 
 * [Sobre](#Sobre)
+* [Details](#Details)
 * [Linguagem](#Linguagem)
+* [Imagens do Aplicativo](Imagens-do-Aplicativo)
 * [Ferramentas Utilizadas](#Ferramentas-Utilizadas)
 * [Fluxograma](#Fluxograma)
+* [Diagrama](#Diagrama)
 * [Estou trabalhando com](#Estou-trabalhando-com)
 
 
 # Sobre:
 
+# 💡Details:
+
 
 
 # 👩‍💻Linguagem:
+
+* ## Java (Swing)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+# 📸Imagens do Aplicativo:
 
 
 
@@ -34,6 +44,10 @@
 <div align = "center">
   <img src = "https://github.com/sophimoura/Projeto-Fisica-Programada/assets/124884847/27d4fbce-c13c-45db-a92a-abea40f863fe" />
 </div>
+
+# 📉Diagrama:
+
+
 
 # 🤝Estou trabalhando com:
 
