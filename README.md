@@ -16,6 +16,10 @@
 
 # Fluxograma:
 
+<div align = "center">
+  <img src = "https://github.com/sophimoura/Projeto-Fisica-Programada/assets/124884847/27d4fbce-c13c-45db-a92a-abea40f863fe" />
+</div>
+
 # Estou trabalhando com:
 
 <div align = "center">
