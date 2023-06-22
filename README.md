@@ -51,7 +51,7 @@
 
 
 
-## 🫱🏻‍🫲🏽Estou trabalhando com:
+## Estou trabalhando com:
 * [Sure Rocha Bezerra ](https://github.com/surerocha)
 * [Isabelly Barbosa Cordeiro ](https://github.com/isabellybarbosac) 
 * [Thayná Nascimento Albano da Silva](https://github.com/thaynaxt)
