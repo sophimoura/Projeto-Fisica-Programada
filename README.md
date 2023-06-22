@@ -10,23 +10,26 @@
 * [Sobre](#Sobre)
 * [Details](#Details)
 * [Linguagem](#Linguagem)
-* [Imagens do Aplicativo](Imagens-do-Aplicativo)
+* [Imagens do Aplicativo](#Imagens-do-Aplicativo)
 * [Ferramentas Utilizadas](#Ferramentas-Utilizadas)
 * [Fluxograma](#Fluxograma)
 * [Diagrama](#Diagrama)
 * [Estou trabalhando com](#Estou-trabalhando-com)
 
-
 # Sobre:
 
-# 💡Details:
-
+# 💡Detalhes:
+* [x] Login
+* [x] Cadastro
+* [x] Calculadora de Velocidade Média 
+* [x] Conversor de Temperatura
+* [x] Conversor do peso em outros astros
 
 
 # 👩‍💻Linguagem:
 
 * ## Java (Swing)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 # 📸Imagens do Aplicativo:
 
