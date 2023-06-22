@@ -4,9 +4,10 @@
 </div>
 
 <h3 align = "center">
-  🚧Projeto em construção🚧
+
 </h3><br>
 
+# 📋Sumário: 
 * [Sobre](#Sobre)
 * [Details](#Details)
 * [Linguagem](#Linguagem)
@@ -16,31 +17,29 @@
 * [Diagrama](#Diagrama)
 * [Estou trabalhando com](#Estou-trabalhando-com)
 
-# Sobre:
-
-# 💡Detalhes:
-* [x] Login
-* [x] Cadastro
-* [x] Calculadora de Velocidade Média 
-* [x] Conversor de Temperatura
-* [x] Conversor do peso em outros astros
+# 🔐Sobre: 
 
 
-# 👩‍💻Linguagem:
+# ♟️Detalhes:
+* [x] Calculadora de Velocidade Média;
+* [x] Conversor de Temperatura;
+* [x] Conversor do peso em outros astros;
+
+# 👩‍💻Linguagens:
 
 * ## Java (Swing)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-# 📸Imagens do Aplicativo:
+# 📱Imagens do Aplicativo:
 
 
 
-# 🛠️Ferramentas Utilizadas:
+# ⚙️Ferramentas Utilizadas:
 
 * ## ApacheNetbeansIDE
+  ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 * ## PostgreeSQL
-![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 # 📉Fluxograma:
 
@@ -52,8 +51,7 @@
 
 
 
-# 🤝Estou trabalhando com:
-
-<div align = "center">
-  <img src = "https://github.com/sophimoura/Projeto-Fisica-Programada/assets/124884847/91d8fb46-3ed0-4480-a738-b25080b920f1"/>
-</div>
+# 🫱🏻‍🫲🏽Estou trabalhando com:
+* [Sure Rocha Bezerra ](https://github.com/surerocha)
+* [Isabelly Barbosa Cordeiro ](https://github.com/isabellybarbosac) 
+* [Thayná Nascimento Albano da Silva](https://github.com/thaynaxt)
