@@ -8,6 +8,7 @@
 </h3><br>
 
 * [Sobre](#Sobre)
+* [Linguagem](#Linguagem)
 * [Ferramentas Utilizadas](#Ferramentas-Utilizadas)
 * [Fluxograma](#Fluxograma)
 * [Estou trabalhando com](#Estou-trabalhando-com)
@@ -15,9 +16,18 @@
 
 # Sobre:
 
+
+
+# 👩‍💻Linguagem:
+
+
+
 # 🛠️Ferramentas Utilizadas:
 
-
+* ## ApacheNetbeansIDE
+* ## PostgreeSQL
+![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 # 📉Fluxograma:
 
