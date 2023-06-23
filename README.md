@@ -22,12 +22,14 @@ O principal objetivo do nosso projeto é realizar cálculos relacionados a físi
 * ### Java (Swing)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## ⚙️Ferramentas Utilizadas:
+## ⚙️ Ferramentas Utilizadas:
 
-* ### ApacheNetbeansIDE
+* ### Netbeans IDE
   ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-* ## PostgreeSQL
+* ### PostgreeSQL
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+* ### Canva
+* ### Lucidchart
 
 ## 📉Fluxograma:
 
@@ -36,10 +38,12 @@ O principal objetivo do nosso projeto é realizar cálculos relacionados a físi
 </div>
 
 ## 📉Diagrama:
+<div align = "center">
+  <img src = "https://github.com/isabellybarbosac/ProjetoFinalJava_POO2023.1/assets/125043792/1d14e7bf-a0d6-4449-b8fa-7d0bdbc711d0"
+  />
+</div>
 
-
-
-## Estou trabalhando com :
+## 🤝Estou trabalhando com :
 * [Sure Rocha Bezerra ](https://github.com/surerocha)
 * [Isabelly Barbosa Cordeiro ](https://github.com/isabellybarbosac) 
 * [Thayná Nascimento Albano da Silva](https://github.com/thaynaxt)
