@@ -9,13 +9,13 @@
 
 ## 📋Sumário: 
 * [Sobre](#Sobre)
-* [Details](#Details)
-* [Linguagem](#Linguagem)
+* [Detalhes](#Detalhes)
+* [Linguagens](#Linguagens)
 * [Imagens do Aplicativo](#Imagens-do-Aplicativo)
 * [Ferramentas Utilizadas](#Ferramentas-Utilizadas)
 * [Fluxograma](#Fluxograma)
 * [Diagrama](#Diagrama)
-* [Estou trabalhando com...](#Estou-trabalhando-com)
+* [Estou trabalhando com](#Estou-trabalhando-com)
 
 ## 🔐Sobre: 
 <h3>
