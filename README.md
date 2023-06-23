@@ -18,7 +18,9 @@
 * [Estou trabalhando com...](#Estou-trabalhando-com)
 
 ## 🔐Sobre: 
-
+<h3>
+O principal objetivo do nosso projeto é realizar cálculos relacionados a física de maneira prática, intuitiva e objetiva. Ao fornecer ao usuário as informações desejadas, nosso software permite que haja economia de tempo e prevenção erros comuns de cálculo.
+</h3>
 
 ## ♟️Detalhes:
 * [x] Calculadora de Velocidade Média;
